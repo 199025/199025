@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @199025
+- 👀 I’m interested in software engineering and architecture
+- 🌱 I’m currently learning both software engineering and architecture
+- 💞️ I’m looking to collaborate on software engineering
+- 📫 How to reach me destaabel390@gmail.com
